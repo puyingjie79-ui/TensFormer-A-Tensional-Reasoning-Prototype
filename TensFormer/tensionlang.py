@@ -1,0 +1,1 @@
+print('TensionLang 推问语言模块')
