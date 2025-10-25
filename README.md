@@ -42,4 +42,4 @@ Global Tension: 2.3571
 (显示张力图可视化窗口)
 ```
 
-MIT License © 2025 [Your Name]
+MIT License © 2025 [蒲英杰]
