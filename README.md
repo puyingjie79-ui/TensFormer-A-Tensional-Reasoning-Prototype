@@ -1,3 +1,5 @@
+A minimal prototype exploring question-driven intelligence and tensional reasoning beyond transformer-based models
+
 # 🧠 TensionFlow: A New Cognitive Architecture Beyond Transformers
 
 > “Reimagining Intelligence through Tensional Reasoning, Q-Space and Non-Sequential Computation.”
